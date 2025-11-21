@@ -1,4 +1,4 @@
----
+free email---
 title: AdGuard Mail Overview
 sidebar_position: 1
 slug: /
